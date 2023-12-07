@@ -5,12 +5,14 @@
   <p align="left">
     Hi there! I'm Jitesh, an Indian third-year computer science student who
     enjoys creating software that changes the way things work. Normally, I
-    work with web development. <br /> <br/>
-    I am a firm believer in the value of public education, and I always look
-    forward to learning new things and imparting what I know to others. I
-    enjoy engaging with people, and I like to serve people in my neighborhood
-    on a regular basis.
+    work with web development. <br /> 
+   
+   I am a firm believer in the value of public education, and I always look
+   forward to learning new things and imparting what I know to others. I
+   enjoy engaging with people, and I like to serve people in my neighborhood
+   on a regular basis.
   </p>
+
 
   - 🔭 I’m currently working on **Modern Real World Full Stack Dev**
     
@@ -21,6 +23,7 @@
   - 📫 How to reach me **jiteshdubey001@gmail.com**
     
  - ⚡ Fun fact **When I am not working I usually spend my time in watching Movies.**
+   
   <img align="center"
 src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966"
     width="400"
